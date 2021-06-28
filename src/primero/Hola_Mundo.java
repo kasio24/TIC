@@ -62,6 +62,7 @@ public class Hola_Mundo {
             
         }while(numB<=numA);
 
+        System.out.println("\n termino");
 
     }
 }
