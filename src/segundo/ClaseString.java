@@ -1,4 +1,4 @@
-package primero;
+package segundo;
 
 import javax.swing.JOptionPane;
 

@@ -1,4 +1,4 @@
-package primero;
+package segundo;
 
 public class ClasesWrapper {
     public static void main(String[] args) {
@@ -21,8 +21,12 @@ public class ClasesWrapper {
         boolean v = Boolean.parseBoolean(strTrue);
         boolean f = Boolean.parseBoolean(strFalse);
     
+        
         String a= x.toString();
         String b= w.toString();
     
+        System.out.println("\n->"+numeroInt+"\n->"+numeroFloat+"\n->"+numeroDouble+"\n->"+numeroLong+"\n->"+numeroShort);
+        System.out.println("\n->"+v+"\n->"+f);
+        System.out.println("\n->"+a+"\n->"+b);
     }
 }

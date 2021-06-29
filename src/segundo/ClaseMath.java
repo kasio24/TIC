@@ -1,4 +1,4 @@
-package primero;
+package segundo;
 
 public class ClaseMath {
     public static void main(String[] args) {
