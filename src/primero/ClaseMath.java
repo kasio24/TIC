@@ -14,5 +14,6 @@ public class ClaseMath {
         float g= Math.round(8.9999);
         double h= Math.floor(8.666);
         double i= Math.ceil(2.5);
+        System.out.println(/*'\n'+a+'\n'+b+'\n'+c+*/"\n->"+d+"\n->"+e+"\n->"+f+"\n->"+g+"\n->"+h+"\n->"+i+"\n->"+x+"\n->"+z); 
     }
 }
